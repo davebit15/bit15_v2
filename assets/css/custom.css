@@ -1,0 +1,20 @@
+::selection {
+  color: #FFF;
+  background: #7a8b48;
+}
+::-moz-selection {
+  color: #FFF;
+  background: #7a8b48;
+}
+.logo > a > img {
+	height: 48px;
+	margin: 8px;
+}
+.intro-caption > img {
+	height:128px;
+	margin-bottom: 30px;
+}
+.extra-text {
+	display: none;
+	cursor: hand;
+}
